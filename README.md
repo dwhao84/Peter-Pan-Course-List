@@ -55,11 +55,11 @@
 #### 點選 cell 播放音樂或影片，比方利用 AVPlayer 播音樂 ， 或是利用 AVPlayerViewController 或 SafariViewController 播影片
 - [ ] Medium -
 
----
+
 
 ## 作業 13 table view, collection view & data source
 
-* ⭐️ 實作 Table View 的基本功能
+#### ⭐️ 實作 Table View 的基本功能
 - [x] [#51 實作 Table View 的基本功能](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/51-實作-table-view-的基本功能-8f52cc9d2bf1)
 - [x] Medium - [HW#38 TableView & Custom Cell- MovieList & Passing data](https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-38-tableview-custom-cell-movielist-passing-data-77645ebafd28)
 
@@ -220,9 +220,39 @@
 - [ ] Medium - []()
 
 
-## 作業15
+## 作業 15 網路上傳
+
+####  ⭐️ 訂飲料 App
+- [ ] [#20 訂飲料 App，上傳資料到後台](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/你出力寫-app-我出錢請飲料-6a9ac14a2a22#.ca1orb7xv)
+- [ ] Medium - []()
+
+#### ⭐️ 適合新手練習串接的 REST API
+- [ ] [#180 適合新手練習串接的 REST API](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/180-適合新手練習串接的-rest-api-ef027d4fc066)
+- [ ] Medium - []()
 
 
+#### 登入 API
+- [ ] [#182 使用 FavQs API 開發註冊登入功能，搭配 AirTable & Imgur API 上傳下載資料](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/182-使用-favqs-api-開發註冊登入功能-搭配-airtable-imgur-api-上傳下載資料-47658b7502eb)
+- [ ] [#109 登入註冊，個人資訊(profile)頁面 & Result type](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/109-登入註冊-個人帳號頁面-17465b478133)
+- [ ] Medium - []()
+
+
+#### 利用 Airtable 開發包含新增，修改，刪除功能的 iOS App，比方動態牆，購物車
+- [ ] [#135 利用 Airtable 開發 iOS App，比方電影 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/135-利用-airtable-開發-ios-app-比方電影-app-db88fc3bf6c2)
+- [ ] Medium - []()
+
+
+#### collection view & table view 的 網路圖片顯示問題
+- [ ] [collection view & table view 的網路圖片顯示問題](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/collection-view-table-view-的網路圖片顯示問題-e83c5ca487c8)
+- [ ] Medium - []()
+
+
+
+#### 圖片上傳
+- [ ] [Swift iOS App 的圖片上傳，以 remove.bg & Imgur API 為例](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swift-ios-app-的圖片上傳-以-remove-bg-imgur-api-為例-5b1214b86438)
+- [ ] Medium - []()
+
+---
 
 ## 作業16
 
