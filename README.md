@@ -350,6 +350,28 @@
 
 ## 作業19 網路進階
 
+#### ⭐️實作一個可以新增，讀取，刪除，修改 & 儲存資料的 App，比方記帳 App，美食記錄 App
+- [ ] [#Task：Part.01–我到底要做什麼APP？](https://medium.com/彼得潘的-swift-ios-app-開發教室/task-part-01-我到底要做什麼app-1e1cadc4c716)
+- [ ] Medium - []()
+
+
+#### 單字 App
+- [ ] [#192 利用國中1200 和高中7000 的英文單字 JSON 開發單字 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/利用國中1200-和高中7000-的英文單字-json-開發單字-app-bdeb3c87c087)
+- [ ] [#21 存取檔案實作單字 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/21-單字-app-ab9bd6b6eb5)
+- [ ] [使用 AI 開發英文單字的 iOS App 和 JSON 資料](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/使用-ai-開發英文單字的-ios-app-cfe08bc20757)
+- [ ] Medium - []()
+
+
+#### 模仿製作 iOS 內建的 Clock App
+- [ ] [#65 模仿製作 iOS 內建的 Clock App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/65-模仿製作-ios-內建的-clock-app-29385a04bea)
+- [ ] Medium - []()
+
+
+#### 利用 unwind segue 將表格選擇的結果回傳
+- [ ] [#68 利用 unwind segue 將表格選擇的結果回傳 - App 功能實作解密 1](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/利用-unwind-segue-將表格選擇的結果回傳-app-功能實作解密-1-c66a731f9380)
+- [ ] Medium - []()
+
+
 
 
 ## 作業20
@@ -358,7 +380,7 @@
 - [ ] [⭐️ 研究Develop in Swift Data Collections Guided Project: Restauran](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E6%A8%A1%E4%BB%BF-apple-%E5%AE%98%E6%96%B9%E7%AF%84%E4%BE%8B%E4%B8%B2%E6%8E%A5-json-api-%E5%AE%9A%E7%BE%A9-function-%E5%9E%8B%E5%88%A5%E7%9A%84-completion-%E5%8F%83%E6%95%B8-%E4%BD%BF%E7%94%A8-result-type-9b058c77df5d)
 - [ ] Medium - []()
 
-
+---
 
 ## 作業21 UI程式
 
@@ -403,6 +425,7 @@
 - [ ] [從程式動態加 view 到 stack view](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/從程式動態加-view-到-stack-view-e5c2a2d01575)
 - [ ] Medium - []()
 
+---
 
 ## 作業22 delegate, closure, notification, xib
 
@@ -422,6 +445,7 @@
 - [ ] [#138 用四種不同的方法製作 iOS App 畫面: SwiftUI，storyboard，xib & 程式 auto layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/138-用四種不同的方法製作-ios-app-畫面-swiftui-storyboard-xib-程式-auto-layout-8a72519096db)
 - [ ] Medium - []()
 
+---
 
 ## 作業23 Core Data & Location
 #### 使用 Core Data 儲存資料
