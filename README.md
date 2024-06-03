@@ -251,10 +251,50 @@
 - [ ] [Swift iOS App 的圖片上傳，以 remove.bg & Imgur API 為例](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swift-ios-app-的圖片上傳-以-remove-bg-imgur-api-為例-5b1214b86438)
 - [ ] Medium - []()
 
----
 
-## 作業16
 
+
+## 作業16 Auto Layout
+
+#### ⭐️從 Figma 設計圖練習 Auto Layout
+- [ ] [從 Figma 設計圖練習 Auto Layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/從-figma-設計圖練習-auto-layout-ef1d434962a6)
+- [ ] Medium - []()
+
+
+#### Auto Layout 相關作業
+- [ ] [#5 Auto Layout 練習](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/auto-layout-相關作業-8b9780aa18d)
+- [ ] Medium - []()
+
+
+#### 以auto layout 實作之前做過的 App 畫面
+- [ ] Medium - []()
+
+
+#### 入門的 Auto Layout 畫面臨摹練習
+- [ ] [入門的 Auto Layout 畫面臨摹練習](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/入門的-auto-layout-畫面臨摹練習-560e42f604b5)
+- [ ] [#31 製作 iPhone 內建的 iOS App 畫面](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/31-製作-iphone-內建的-ios-app-畫面-313c643cb27d)
+- [ ] Medium - []()
+
+
+#### 搭配 Sketch 和 Zeplin ，製作 iOS App 畫面
+- [ ] [#14 搭配 Sketch 和 Zeplin ，製作 iOS App 畫面](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/14-搭配-sketch-和-zeplin-以-auto-layout-製作-ios-app-畫面-740c7acf4f19)
+- [ ] Medium - []()
+
+
+#### 製作 iPhone 內建的 iOS App 畫面，搭配 sketch & Zeplin ，建議可先做文章裡提到的 Now Playing 頁面。
+- [ ] []()
+- [ ] Medium - []()
+
+
+
+#### 製作 Instagram 畫面
+- [ ] [Instagram iPhone X UI  Sketch Resource](https://www.sketchappsources.com/free-source/3184-instagram-home-view-iphone-x-sketch-freebie-resource.html)
+- [ ] Medium - []()
+
+
+#### 參考 App 設計網站，用 Auto Layout 設計畫面
+- [ ] [Mobbin](https://mobbin.com)
+- [ ] Medium - []()
 
 
 ## 作業17
