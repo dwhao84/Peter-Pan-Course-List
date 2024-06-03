@@ -12,11 +12,9 @@
 - [ ] Medium - 
 
 
-
 #### iOS SDK 選東西的 view controller & delegate
 - [ ] [iOS SDK 選東西的 view controller & delegate](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/ios-sdk-選東西的-view-controller-delegate-範例-c3f0b5238933)
 - [ ] Medium - 
-
 
 
 #### 使用 Open Peeps 圖庫開發紙娃娃 App，搭配分頁的 scroll view & 小圓點呈現選擇的項目。
@@ -55,7 +53,7 @@
 #### 點選 cell 播放音樂或影片，比方利用 AVPlayer 播音樂 ， 或是利用 AVPlayerViewController 或 SafariViewController 播影片
 - [ ] Medium -
 
-
+---
 
 ## 作業13 table view, collection view & data source
 
@@ -114,6 +112,7 @@
 - [ ] [#164 英國跳棋(Checkers)](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/164-英國跳棋-checkers-682599134166)
 - [ ] Medium -
 
+---
 
 ## 作業14 網路下載
 #### ⭐️ 新手的 Swift JSON decode 練習題 & 解答
@@ -219,6 +218,7 @@
 - [ ] [#183 Open Emoji API 串接](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/183-open-emoji-api-串接-ec5454bd8672)
 - [ ] Medium - []()
 
+---
 
 ## 作業15 網路上傳
 
@@ -251,8 +251,7 @@
 - [ ] [Swift iOS App 的圖片上傳，以 remove.bg & Imgur API 為例](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swift-ios-app-的圖片上傳-以-remove-bg-imgur-api-為例-5b1214b86438)
 - [ ] Medium - []()
 
-
-
+---
 
 ## 作業16 Auto Layout
 
@@ -294,6 +293,7 @@
 - [ ] [Mobbin](https://mobbin.com)
 - [ ] Medium - []()
 
+---
 
 ## 作業17 StackView
 
@@ -316,6 +316,7 @@
 - [ ] [利用 scroll view 的 Frame Layout Guide 設計浮動元件](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/利用-scroll-view-的-frame-layout-guide-設計浮動元件-805f935e1877)
 - [ ] Medium - []()
 
+---
 
 ## 作業18 auto layout & cell
 
@@ -347,6 +348,7 @@
 - [ ] [#85 下拉放大圖片(stretchable)的 scroll view](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/85-下拉放大圖片-stretchable-的-scroll-view-108fdbafa58c)
 - [ ] Medium - []()
 
+---
 
 ## 作業19 網路進階
 
@@ -371,8 +373,7 @@
 - [ ] [#68 利用 unwind segue 將表格選擇的結果回傳 - App 功能實作解密 1](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/利用-unwind-segue-將表格選擇的結果回傳-app-功能實作解密-1-c66a731f9380)
 - [ ] Medium - []()
 
-
-
+---
 
 ## 作業20
 
