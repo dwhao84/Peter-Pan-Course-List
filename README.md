@@ -57,7 +57,7 @@
 
 
 
-## 作業 13 table view, collection view & data source
+## 作業13 table view, collection view & data source
 
 #### ⭐️ 實作 Table View 的基本功能
 - [x] [#51 實作 Table View 的基本功能](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/51-實作-table-view-的基本功能-8f52cc9d2bf1)
@@ -115,7 +115,7 @@
 - [ ] Medium -
 
 
-## 作業 14 網路下載
+## 作業14 網路下載
 #### ⭐️ 新手的 Swift JSON decode 練習題 & 解答
 - [x] [新手的 Swift JSON decode 練習題](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/新手的-swift-json-decode-練習題-3b89559c0aa8)
 - [x] Medium - [HW#45 JSON Decoder](https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-45-json-decoder-ac9f75765242)
@@ -220,7 +220,7 @@
 - [ ] Medium - []()
 
 
-## 作業 15 網路上傳
+## 作業15 網路上傳
 
 ####  ⭐️ 訂飲料 App
 - [ ] [#20 訂飲料 App，上傳資料到後台](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/你出力寫-app-我出錢請飲料-6a9ac14a2a22#.ca1orb7xv)
@@ -245,7 +245,6 @@
 #### collection view & table view 的 網路圖片顯示問題
 - [ ] [collection view & table view 的網路圖片顯示問題](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/collection-view-table-view-的網路圖片顯示問題-e83c5ca487c8)
 - [ ] Medium - []()
-
 
 
 #### 圖片上傳
