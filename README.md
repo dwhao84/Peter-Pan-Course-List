@@ -282,9 +282,7 @@
 
 
 #### 製作 iPhone 內建的 iOS App 畫面，搭配 sketch & Zeplin ，建議可先做文章裡提到的 Now Playing 頁面。
-- [ ] []()
 - [ ] Medium - []()
-
 
 
 #### 製作 Instagram 畫面
@@ -297,32 +295,139 @@
 - [ ] Medium - []()
 
 
-## 作業17
+## 作業17 StackView
+
+#### ⭐️以 stack view 製作 Figma 設計的 App 畫面
+- [ ] [從 Figma 設計圖練習 Auto Layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/從-figma-設計圖練習-auto-layout-ef1d434962a6)
+- [ ] Medium - []()
 
 
+#### ⭐️研究 Develop in Swift Fundamentals 的 Auto Layout 範例: 2.11 Lab Calculator & Unit 2 的 Guide Project Apple Pie
+- [ ] [Develop in Swift Fundamentals](https://books.apple.com/tw/book/develop-in-swift-fundamentals/id1581182804?l=en-GB)
+- [ ] Medium - []()
 
-## 作業18
+
+#### ⭐️stack view + scroll view 做分頁 tutorial
+- [ ] [stack view + scroll view 製作分頁 tutorial (懶得寫程式版)](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/stack-view-scroll-view-製作分頁-tutorial-懶得寫程式版-7ff9021317a0)
+- [ ] Medium - []()
 
 
+#### 利用 scroll view 的 Frame Layout Guide 設計浮動元件
+- [ ] [利用 scroll view 的 Frame Layout Guide 設計浮動元件](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/利用-scroll-view-的-frame-layout-guide-設計浮動元件-805f935e1877)
+- [ ] Medium - []()
 
-## 作業19
+
+## 作業18 auto layout & cell
+
+#### ⭐️照片牆 (auto layout)
+- [ ] [#53 照片牆(Grid Photo Wall)](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/53-collection-view-照片牆-c03f156de0c)
+- [ ] Medium - []()
+
+
+#### ⭐️情歌對唱的聊天室畫面
+- [ ] [#63 情歌對唱的聊天室畫面 — cell 的 auto layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/63-情歌對唱的聊天室畫面-cell-的-auto-layout-53697c2ad80c)
+- [ ] Medium - []()
+
+
+#### ⭐️水平捲動的 collection view (auto layout)
+- [ ] [#121 水平捲動的 collection view](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/121-水平捲動的-collection-view-eb679cb5fbaf)
+- [ ] Medium - []()
+
+
+#### 在畫面上顯示 Apple 設計好的甜甜圈清單
+- [ ] [#184 利用 Apple 的甜甜圈範例素材製作有點甜的 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/184-利用-apple-的甜甜圈範例素材製作有點甜的-app-dfd124e2fb2f)
+- [ ] Medium - []()
+
+
+#### 無限循環和自動輸播分頁圖片(使用 collection view ）
+- [ ] Medium - []()
+
+
+#### 下拉放大圖片的表格
+- [ ] [#85 下拉放大圖片(stretchable)的 scroll view](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/85-下拉放大圖片-stretchable-的-scroll-view-108fdbafa58c)
+- [ ] Medium - []()
+
+
+## 作業19 網路進階
 
 
 
 ## 作業20
 
-
-
-## 作業21
-
-
-
-## 作業22
+#### ⭐️研究Develop in Swift Data Collections Guided Project: Restaurant
+- [ ] [⭐️ 研究Develop in Swift Data Collections Guided Project: Restauran](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E6%A8%A1%E4%BB%BF-apple-%E5%AE%98%E6%96%B9%E7%AF%84%E4%BE%8B%E4%B8%B2%E6%8E%A5-json-api-%E5%AE%9A%E7%BE%A9-function-%E5%9E%8B%E5%88%A5%E7%9A%84-completion-%E5%8F%83%E6%95%B8-%E4%BD%BF%E7%94%A8-result-type-9b058c77df5d)
+- [ ] Medium - []()
 
 
 
-## 作業23
+## 作業21 UI程式
+
+#### ⭐️參考 Interface Builder 的 App 畫面，練習從程式製作 App 的畫面 & 功能
+- [ ] [#193 參考 Interface Builder 的 App 畫面，練習從程式製作 App 的畫面 & 功能](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/參考-interface-builder-的-app-畫面-練習從程式製作-app-的畫面-功能-a123baa5ada3)
+- [ ] Medium - []()
 
 
+#### ⭐️從程式搭配 Auto Layout 製作畫面
+- [ ] Medium - []()
 
-## 作業11
+
+#### Choose Your Own Adventure  開發一個互動式多重結局 App - 使用 UIKit，以 UINavigationController 的 pushViewController(_:animated:) 切換畫面。
+- [ ] [#195 Choose Your Own Adventure — 開發一個互動式多重結局 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/choose-your-own-adventure-開發一個互動式多重結局-app-812e15b1681b)
+- [ ] Medium - []()
+
+
+#### 利用多個 container view 切換頁面
+- [ ] [利用多個 container view 切換頁面](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/利用多個-container-view-切換頁面-6d00fe848572)
+- [ ] Medium - []()
+
+
+#### iOS SDK 的 frame & bounds
+- [ ] [iOS SDK 的 frame & bounds](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/ios-sdk-的-frame-bounds-c54a4bfd9603)
+
+
+#### 下拉放大圖片(stretchable)的 scroll view
+- [ ] [#85 下拉放大圖片(stretchable)的 scroll view](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/85-下拉放大圖片-stretchable-的-scroll-view-108fdbafa58c)
+- [ ] Medium - []()
+
+
+#### 利用 scroll view & container view 水平滑動切換頁面
+- [ ] [利用 scroll view & container view 水平滑動切換頁面](https://apppeterpan.medium.com/利用-scroll-view-container-view-水平滑動切換頁面-18cec0f910dc)
+- [ ] Medium - []()
+
+
+#### 製作 IG 滑動後 profile tab 卡在上方的效果
+- [ ] [#83 製作 IG 滑動後 profile tab 卡在上方的效果](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/83-製作-ig-滑動後-profile-tab-卡在上方的效果-360e6e6a380e)
+- [ ] Medium - []()
+
+#### 從程式動態加 view 到 stack view
+- [ ] [從程式動態加 view 到 stack view](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/從程式動態加-view-到-stack-view-e5c2a2d01575)
+- [ ] Medium - []()
+
+
+## 作業22 delegate, closure, notification, xib
+
+#### 利用 delegate 在 controller 間傳資料
+- [ ] Medium - []()
+
+#### 練習使用 xib
+- [ ] Medium - []()
+
+#### 利用 closure 在 controller 間傳資料
+- [ ] Medium - []()
+
+#### 利用 notification center 在 controller 間傳資料
+- [ ] Medium - []()
+
+#### 用四種不同的方法製作 iOS App 畫面: SwiftUI，storyboard，xib & 程式 auto layout
+- [ ] [#138 用四種不同的方法製作 iOS App 畫面: SwiftUI，storyboard，xib & 程式 auto layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/138-用四種不同的方法製作-ios-app-畫面-swiftui-storyboard-xib-程式-auto-layout-8a72519096db)
+- [ ] Medium - []()
+
+
+## 作業23 Core Data & Location
+#### 使用 Core Data 儲存資料
+- [ ] Medium - []()
+
+
+#### 使用 MKLocalSearch 或 Google Place API 搜尋附近商家打卡
+- [ ] [#169 使用 MKLocalSearch 或 Google Place API 搜尋附近商家打卡]([https://mobbin.com](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/169-使用-mklocalsearch-或-google-place-api-搜尋附近商家打卡-6d01aaaa914a))
+- [ ] Medium - []()
