@@ -14,8 +14,8 @@
 9. 作業9
 10. 作業10
 11. 作業11
-12. [作業12 protocol & delegate 練習](#作業12-protocol--delegate-練習)
-13. [作業13]()
+[作業12 Protocol & delegate 練習](#作業12-Protocol--delegate-練習)
+[作業13 tableview, collectionview & dataSource](#作業13-table-view,-collection-view-&-data-source)
 14. [作業14]()
 15. [作業15]()
 16. [作業16]()
@@ -27,7 +27,7 @@
 22. [作業22]()
 23. [作業23]()
 
-## 作業12 protocol & delegate 練習
+## 作業12 Protocol & delegate 練習
 
 #### ⭐️ 搭配 UIImagePickerController 選照片，影片 & 照片編輯 App
 - [ ] [#95 照片編輯 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/95-照片編輯-app-335ef37cc707)
