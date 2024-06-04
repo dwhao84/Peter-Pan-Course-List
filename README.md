@@ -1,6 +1,6 @@
 # Peter Pan Course List
 
-# 目錄:
+## 目錄:
 - [作業12 protocol & delegate 練習](#作業12-protocol--delegate-練習)
 - [作業13 table view, collection view & data source](#作業13-table-view-collection-view--data-source)
 - [作業14 網路下載](#作業14-網路下載)
@@ -15,7 +15,7 @@
 - [作業23 Core Data & Location](#作業23-Core-Data--Location)
   
 
-## 作業12 Protocol & delegate 練習
+### 作業12 Protocol & delegate 練習
 
 #### ⭐️ 搭配 UIImagePickerController 選照片，影片 & 照片編輯 App
 - [ ] [#95 照片編輯 App](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/95-照片編輯-app-335ef37cc707)
@@ -70,7 +70,7 @@
 
 ---
 
-## 作業13 table view, collection view & data source
+### 作業13 table view, collection view & data source
 
 #### ⭐️ 實作 Table View 的基本功能
 - [x] [#51 實作 Table View 的基本功能](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/51-實作-table-view-的基本功能-8f52cc9d2bf1)
@@ -129,7 +129,7 @@
 
 ---
 
-## 作業14 網路下載
+### 作業14 網路下載
 #### ⭐️ 新手的 Swift JSON decode 練習題 & 解答
 - [x] [新手的 Swift JSON decode 練習題](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/新手的-swift-json-decode-練習題-3b89559c0aa8)
 - [x] Medium - [HW#45 JSON Decoder](https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-45-json-decoder-ac9f75765242)
@@ -235,7 +235,7 @@
 
 ---
 
-## 作業15 網路上傳
+### 作業15 網路上傳
 
 ####  ⭐️ 訂飲料 App
 - [ ] [#20 訂飲料 App，上傳資料到後台](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/你出力寫-app-我出錢請飲料-6a9ac14a2a22#.ca1orb7xv)
@@ -268,7 +268,7 @@
 
 ---
 
-## 作業16 Auto Layout
+### 作業16 Auto Layout
 
 #### ⭐️從 Figma 設計圖練習 Auto Layout
 - [ ] [從 Figma 設計圖練習 Auto Layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/從-figma-設計圖練習-auto-layout-ef1d434962a6)
@@ -310,7 +310,7 @@
 
 ---
 
-## 作業17 StackView
+### 作業17 StackView
 
 #### ⭐️以 stack view 製作 Figma 設計的 App 畫面
 - [ ] [從 Figma 設計圖練習 Auto Layout](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/從-figma-設計圖練習-auto-layout-ef1d434962a6)
@@ -333,7 +333,7 @@
 
 ---
 
-## 作業18 auto layout & cell
+### 作業18 auto layout & cell
 
 #### ⭐️照片牆 (auto layout)
 - [ ] [#53 照片牆(Grid Photo Wall)](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/53-collection-view-照片牆-c03f156de0c)
@@ -365,7 +365,7 @@
 
 ---
 
-## 作業19 網路進階
+### 作業19 網路進階
 
 #### ⭐️實作一個可以新增，讀取，刪除，修改 & 儲存資料的 App，比方記帳 App，美食記錄 App
 - [ ] [#Task：Part.01–我到底要做什麼APP？](https://medium.com/彼得潘的-swift-ios-app-開發教室/task-part-01-我到底要做什麼app-1e1cadc4c716)
@@ -390,7 +390,7 @@
 
 ---
 
-## 作業20 網路進階
+### 作業20 網路進階
 
 #### ⭐️研究Develop in Swift Data Collections Guided Project: Restaurant
 - [ ] [⭐️ 研究Develop in Swift Data Collections Guided Project: Restauran](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E6%A8%A1%E4%BB%BF-apple-%E5%AE%98%E6%96%B9%E7%AF%84%E4%BE%8B%E4%B8%B2%E6%8E%A5-json-api-%E5%AE%9A%E7%BE%A9-function-%E5%9E%8B%E5%88%A5%E7%9A%84-completion-%E5%8F%83%E6%95%B8-%E4%BD%BF%E7%94%A8-result-type-9b058c77df5d)
@@ -398,7 +398,7 @@
 
 ---
 
-## 作業21 UI程式
+### 作業21 UI程式
 
 #### ⭐️參考 Interface Builder 的 App 畫面，練習從程式製作 App 的畫面 & 功能
 - [ ] [#193 參考 Interface Builder 的 App 畫面，練習從程式製作 App 的畫面 & 功能](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/參考-interface-builder-的-app-畫面-練習從程式製作-app-的畫面-功能-a123baa5ada3)
@@ -443,7 +443,7 @@
 
 ---
 
-## 作業22 delegate, closure, notification, xib
+### 作業22 delegate, closure, notification, xib
 
 #### 利用 delegate 在 controller 間傳資料
 - [ ] Medium - []()
@@ -463,7 +463,7 @@
 
 ---
 
-## 作業23 Core Data & Location
+### 作業23 Core Data & Location
 #### 使用 Core Data 儲存資料
 - [ ] Medium - []()
 
