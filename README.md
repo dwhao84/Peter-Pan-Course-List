@@ -1,33 +1,17 @@
 # Peter Pan Course List
 
-<a name="作業23"></a>
-[連連看](##作業23)
-
-1.  [作業1]()
-2. [作業2]()
-3. 作業3
-4. 作業4
-5. 作業5
-6. 作業6
-7. 作業7
-8. 作業8
-9. 作業9
-10. 作業10
-11. 作業11
 - [作業12 protocol & delegate 練習](#作業12-protocol--delegate-練習)
-
 - [作業13 table view, collection view & data source](#作業13-table-view-collection-view--data-source)
-
 - [作業14 網路下載](#作業14-網路下載)
 - [作業15 網路上傳](#作業15-網路上傳)
 - [作業16 Auto Layout](#作業16-Auto-Layout)
 - [作業17 StackView](#作業17-StackView)
 - [作業18 auto layout cell](#作業18-auto-layout--cell)
 - [作業19 CRUD App & 資料儲存](#作業19-CRUD-App--資料儲存)
-[#作業20-網路進階]
-[#作業21-UI程式]
-[#作業22-delegate-closure-notification-xib]
-[#作業23-Core-Data--Location]
+- [作業20 網路進階](#作業20-網路進階)
+- [作業21 UI程式](#作業21-UI程式）
+- [作業22 delegate, closure, notification xib](#作業22-delegate-closure-notification-xib)
+- [作業23 Core Data & Location](#作業23-Core-Data--Location)
   
 
 ## 作業12 Protocol & delegate 練習
@@ -486,3 +470,17 @@
 #### 使用 MKLocalSearch 或 Google Place API 搜尋附近商家打卡
 - [ ] [#169 使用 MKLocalSearch 或 Google Place API 搜尋附近商家打卡]([https://mobbin.com](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/169-使用-mklocalsearch-或-google-place-api-搜尋附近商家打卡-6d01aaaa914a))
 - [ ] Medium - []()
+
+
+
+1.  [作業1]()
+2. [作業2]()
+3. 作業3
+4. 作業4
+5. 作業5
+6. 作業6
+7. 作業7
+8. 作業8
+9. 作業9
+10. 作業10
+11. 作業11
