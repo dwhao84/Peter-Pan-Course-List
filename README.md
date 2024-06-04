@@ -19,15 +19,16 @@
 - [作業13 table view, collection view & data source](#作業13-table-view-collection-view--data-source)
 
 - [作業14 網路下載](#作業14-網路下載)
-15. [作業15]()
-16. [作業16]()
-17. [作業17]()
-18. [作業18]()
-19. [作業19]()
-20. [作業20]()
-21. [作業21]()
-22. [作業22]()
-23. [作業23]()
+- [作業15 網路上傳](#作業15-網路上傳)
+- [作業16 Auto Layout](#作業16-Auto-Layout)
+- [作業17 StackView](#作業17-StackView)
+- [作業18 auto layout cell](#作業18-auto-layout--cell)
+- [作業19 CRUD App & 資料儲存](#作業19-CRUD-App--資料儲存)
+[#作業20-網路進階]
+[#作業21-UI程式]
+[#作業22-delegate-closure-notification-xib]
+[#作業23-Core-Data--Location]
+  
 
 ## 作業12 Protocol & delegate 練習
 
@@ -404,7 +405,7 @@
 
 ---
 
-## 作業20
+## 作業20 網路進階
 
 #### ⭐️研究Develop in Swift Data Collections Guided Project: Restaurant
 - [ ] [⭐️ 研究Develop in Swift Data Collections Guided Project: Restauran](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E6%A8%A1%E4%BB%BF-apple-%E5%AE%98%E6%96%B9%E7%AF%84%E4%BE%8B%E4%B8%B2%E6%8E%A5-json-api-%E5%AE%9A%E7%BE%A9-function-%E5%9E%8B%E5%88%A5%E7%9A%84-completion-%E5%8F%83%E6%95%B8-%E4%BD%BF%E7%94%A8-result-type-9b058c77df5d)
